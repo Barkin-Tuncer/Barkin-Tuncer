@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Barkin Tuncer
+- 👀 My interests lie in front-end development, blockchain scalability, and creating intuitive user interfaces.
+- 🌱 I’m currently expanding my knowledge in Web3 technologies and improving app performance with modern frameworks.
+- 💼 Always eager to collaborate on dynamic web apps, decentralized platforms, and tech-driven innovations.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I’m not coding, I’m exploring new music genres or working on creative side projects!
